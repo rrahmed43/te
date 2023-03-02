@@ -1,0 +1,22 @@
+.s1
+{
+   
+    text-shadow: 2px 1px black;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    margin-top: 10px;
+}
+.s2:hover{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    transition-duration: 2s;
+    transition-delay: 1s;
+    transition-property: all;
+}
+
+.s3:hover{
+    background-color: cadetblue;
+
+}
